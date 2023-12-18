@@ -1,4 +1,4 @@
-# gemeni-example
+# gemini-example
 
 Usage:
 
